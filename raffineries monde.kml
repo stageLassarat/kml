@@ -10,7 +10,7 @@
 		</IconStyle>
 		<ListStyle>
 			<ItemIcon>
-				<href>https://cdn3.iconfinder.com/data/icons/buildings-3-4/129/141-512.png</href>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
 			</ItemIcon>
 		</ListStyle>
 	</Style>
@@ -23,7 +23,6 @@
 			<key>highlight</key>
 			<styleUrl>#raffinerie</styleUrl>
 		</Pair>
-	</StyleMap>
 	</StyleMap>
 	<Folder>
 		<name>Raffineries dans le monde</name>
