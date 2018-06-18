@@ -4,7 +4,7 @@
 	<name>Raffineries dans le monde.kmz</name>
 	<Style id="raffinerie">
 		<BalloonStyle>
-			<color>ff007db3</color>
+			<color>FF0000</color>
 		</BalloonStyle> 
 	</Style>
 	<Folder>
