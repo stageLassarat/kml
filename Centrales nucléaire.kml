@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Centrales nucléaire</name>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Belleville</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Belleville<br>Commune Lat: 47.5107576<br>Commune long: 2.8751083<br>Département: Cher<br>Rg: 54<br>Palier: P'4<br>Puissance thermique (MWt): 7634<br>Puissance brute (MWe): 2726<br>Puissance nette (MWe): 2620<br>Début construction  (premier réacteur): 1980<br>Raccordement au réseau (premier réacteur): 1987<br>Mise en service (premier réacteur): 1988]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Belleville</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>47.5107576</value>
+        </Data>
+        <Data name="Commune long">
+          <value>2.8751083</value>
+        </Data>
+        <Data name="Département">
+          <value>Cher</value>
+        </Data>
+        <Data name="Rg">
+          <value>54.0</value>
+        </Data>
+        <Data name="Palier">
+          <value><![CDATA[P'4]]></value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>7634.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>2726.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>2620.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1980.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1987.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1988.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          2.8751083,47.5107576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blayais</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Braud-et-Saint-Louis<br>Commune Lat: 45.2569295<br>Commune long: -0.693122<br>Département: Gironde<br>Rg: 32<br>Palier: CP1<br>Puissance thermique (MWt): 11140<br>Puissance brute (MWe): 3804<br>Puissance nette (MWe): 3640<br>Début construction  (premier réacteur): 1977<br>Raccordement au réseau (premier réacteur): 1981<br>Mise en service (premier réacteur): 1981]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Braud-et-Saint-Louis</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>45.2569295</value>
+        </Data>
+        <Data name="Commune long">
+          <value>-0.693122</value>
+        </Data>
+        <Data name="Département">
+          <value>Gironde</value>
+        </Data>
+        <Data name="Rg">
+          <value>32.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP1</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>11140.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3804.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>3640.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1977.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1981.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1981.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.693122,45.2569295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bugey</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Saint-Vulbas<br>Commune Lat: 45.802883<br>Commune long: 5.2709267<br>Département: Ain<br>Rg: 13<br>Palier: CP0<br>Puissance thermique (MWt): 11140<br>Puissance brute (MWe): 3724<br>Puissance nette (MWe): 3580<br>Début construction  (premier réacteur): 1972<br>Raccordement au réseau (premier réacteur): 1978<br>Mise en service (premier réacteur): 1979]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Saint-Vulbas</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>45.802883</value>
+        </Data>
+        <Data name="Commune long">
+          <value>5.2709267</value>
+        </Data>
+        <Data name="Département">
+          <value>Ain</value>
+        </Data>
+        <Data name="Rg">
+          <value>13.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP0</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>11140.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3724.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>3580.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1972.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1978.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1979.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          5.2709267,45.802883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cattenom</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Cattenom<br>Commune Lat: 49.4169291<br>Commune long: 6.2180046<br>Département: Moselle<br>Rg: 50<br>Palier: P'4<br>Puissance thermique (MWt): 15268<br>Puissance brute (MWe): 5448<br>Puissance nette (MWe): 5200<br>Début construction  (premier réacteur): 1979<br>Raccordement au réseau (premier réacteur): 1986<br>Mise en service (premier réacteur): 1987]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Cattenom</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>49.4169291</value>
+        </Data>
+        <Data name="Commune long">
+          <value>6.2180046</value>
+        </Data>
+        <Data name="Département">
+          <value>Moselle</value>
+        </Data>
+        <Data name="Rg">
+          <value>50.0</value>
+        </Data>
+        <Data name="Palier">
+          <value><![CDATA[P'4]]></value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>15268.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>5448.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>5200.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1979.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1986.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1987.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          6.2180046,49.4169291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chinon-B</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Avoine<br>Commune Lat: 47.2276174<br>Commune long: 0.1675627<br>Département: Indre-et-Loire<br>Rg: 40<br>Palier: CP2<br>Puissance thermique (MWt): 11140<br>Puissance brute (MWe): 3816<br>Puissance nette (MWe): 3620<br>Début construction  (premier réacteur): 1977<br>Raccordement au réseau (premier réacteur): 1982<br>Mise en service (premier réacteur): 1984]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Avoine</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>47.2276174</value>
+        </Data>
+        <Data name="Commune long">
+          <value>0.1675627</value>
+        </Data>
+        <Data name="Département">
+          <value>Indre-et-Loire</value>
+        </Data>
+        <Data name="Rg">
+          <value>40.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP2</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>11140.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3816.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>3620.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1977.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1982.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1984.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.1675627,47.2276174,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chooz-B</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Chooz<br>Commune Lat: 50.0904751<br>Commune long: 4.789951<br>Département: Ardennes<br>Rg: 62<br>Palier: N4<br>Puissance thermique (MWt): 17080<br>Puissance brute (MWe): 3120<br>Puissance nette (MWe): 3000<br>Début construction  (premier réacteur): 1984<br>Raccordement au réseau (premier réacteur): 1996<br>Mise en service (premier réacteur): 2000]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Chooz</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>50.0904751</value>
+        </Data>
+        <Data name="Commune long">
+          <value>4.789951</value>
+        </Data>
+        <Data name="Département">
+          <value>Ardennes</value>
+        </Data>
+        <Data name="Rg">
+          <value>62.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>N4</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>17080.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3120.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>3000.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1984.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1996.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>2000.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.789951,50.0904751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Civaux</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Civaux<br>Commune Lat: 46.4539667<br>Commune long: 0.654695<br>Département: Vienne<br>Rg: 72<br>Palier: N4<br>Puissance thermique (MWt): 17080<br>Puissance brute (MWe): 3122<br>Puissance nette (MWe): 2990<br>Début construction  (premier réacteur): 1988<br>Raccordement au réseau (premier réacteur): 1997<br>Mise en service (premier réacteur): 2002]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Civaux</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>46.4539667</value>
+        </Data>
+        <Data name="Commune long">
+          <value>0.654695</value>
+        </Data>
+        <Data name="Département">
+          <value>Vienne</value>
+        </Data>
+        <Data name="Rg">
+          <value>72.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>N4</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>17080.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3122.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>2990.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1988.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1997.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>2002.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.654695,46.4539667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruas</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Cruas<br>Commune Lat: 44.6334645<br>Commune long: 4.7528096<br>Département: Ardèche<br>Rg: 42<br>Palier: CP2<br>Puissance thermique (MWt): 11140<br>Puissance brute (MWe): 3824<br>Puissance nette (MWe): 3660<br>Début construction  (premier réacteur): 1978<br>Raccordement au réseau (premier réacteur): 1983<br>Mise en service (premier réacteur): 1984]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Cruas</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>44.6334645</value>
+        </Data>
+        <Data name="Commune long">
+          <value>4.7528096</value>
+        </Data>
+        <Data name="Département">
+          <value>Ardèche</value>
+        </Data>
+        <Data name="Rg">
+          <value>42.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP2</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>11140.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3824.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>3660.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1978.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1983.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1984.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.7528096,44.6334645,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dampierre</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Dampierre<br>Commune Lat: 47.7325954<br>Commune long: 2.5162016<br>Département: Loiret<br>Rg: 22<br>Palier: CP1<br>Puissance thermique (MWt): 11140<br>Puissance brute (MWe): 3748<br>Puissance nette (MWe): 3560<br>Début construction  (premier réacteur): 1975<br>Raccordement au réseau (premier réacteur): 1980<br>Mise en service (premier réacteur): 1980]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Dampierre</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>47.7325954</value>
+        </Data>
+        <Data name="Commune long">
+          <value>2.5162016</value>
+        </Data>
+        <Data name="Département">
+          <value>Loiret</value>
+        </Data>
+        <Data name="Rg">
+          <value>22.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP1</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>11140.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3748.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>3560.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1975.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1980.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1980.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          2.5162016,47.7325954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fessenheim</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Fessenheim<br>Commune Lat: 47.9029723<br>Commune long: 7.5626885<br>Département: Haut-Rhin<br>Rg: 11<br>Palier: CP0<br>Puissance thermique (MWt): 5320<br>Puissance brute (MWe): 1840<br>Puissance nette (MWe): 1760<br>Début construction  (premier réacteur): 1971<br>Raccordement au réseau (premier réacteur): 1977<br>Mise en service (premier réacteur): 1978]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Fessenheim</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>47.9029723</value>
+        </Data>
+        <Data name="Commune long">
+          <value>7.5626885</value>
+        </Data>
+        <Data name="Département">
+          <value>Haut-Rhin</value>
+        </Data>
+        <Data name="Rg">
+          <value>11.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP0</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>5320.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>1840.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>1760.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1971.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1977.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1978.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          7.5626885,47.9029723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flamanville</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Flamanville<br>Commune Lat: 49.5377517<br>Commune long: -1.8827985<br>Département: Manche<br>Rg: 46<br>Palier: P4<br>Puissance thermique (MWt): 7634<br>Puissance brute (MWe): 2764<br>Puissance nette (MWe): 2660<br>Début construction  (premier réacteur): 1979<br>Raccordement au réseau (premier réacteur): 1985<br>Mise en service (premier réacteur): 1986]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Flamanville</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>49.5377517</value>
+        </Data>
+        <Data name="Commune long">
+          <value>-1.8827985</value>
+        </Data>
+        <Data name="Département">
+          <value>Manche</value>
+        </Data>
+        <Data name="Rg">
+          <value>46.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>P4</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>7634.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>2764.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>2660.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1979.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1985.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1986.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -1.8827985,49.5377517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Golfech</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Golfech<br>Commune Lat: 44.1077656<br>Commune long: 0.8449469<br>Département: Tarn-et-Garonne<br>Rg: 61<br>Palier: P'4<br>Puissance thermique (MWt): 7634<br>Puissance brute (MWe): 2726<br>Puissance nette (MWe): 2620<br>Début construction  (premier réacteur): 1982<br>Raccordement au réseau (premier réacteur): 1990<br>Mise en service (premier réacteur): 1991]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Golfech</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>44.1077656</value>
+        </Data>
+        <Data name="Commune long">
+          <value>0.8449469</value>
+        </Data>
+        <Data name="Département">
+          <value>Tarn-et-Garonne</value>
+        </Data>
+        <Data name="Rg">
+          <value>61.0</value>
+        </Data>
+        <Data name="Palier">
+          <value><![CDATA[P'4]]></value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>7634.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>2726.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>2620.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1982.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1990.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1991.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.8449469,44.1077656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gravelines</name>
+      <description><![CDATA[Nombre de réacteur: 6<br>Commune: Gravelines<br>Commune Lat: 51.0136449<br>Commune long: 2.1365228<br>Département: Nord<br>Rg: 20<br>Palier: CP1<br>Puissance thermique (MWt): 16710<br>Puissance brute (MWe): 5706<br>Puissance nette (MWe): 5460<br>Début construction  (premier réacteur): 1975<br>Raccordement au réseau (premier réacteur): 1980<br>Mise en service (premier réacteur): 1980]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>6.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Gravelines</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>51.0136449</value>
+        </Data>
+        <Data name="Commune long">
+          <value>2.1365228</value>
+        </Data>
+        <Data name="Département">
+          <value>Nord</value>
+        </Data>
+        <Data name="Rg">
+          <value>20.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP1</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>16710.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>5706.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>5460.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1975.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1980.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1980.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          2.1365228,51.0136449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nogent</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Nogent<br>Commune Lat: 48.5159969<br>Commune long: 3.5164471<br>Département: Aube<br>Rg: 58<br>Palier: P'4<br>Puissance thermique (MWt): 7634<br>Puissance brute (MWe): 2726<br>Puissance nette (MWe): 2620<br>Début construction  (premier réacteur): 1981<br>Raccordement au réseau (premier réacteur): 1987<br>Mise en service (premier réacteur): 1988]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Nogent</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>48.5159969</value>
+        </Data>
+        <Data name="Commune long">
+          <value>3.5164471</value>
+        </Data>
+        <Data name="Département">
+          <value>Aube</value>
+        </Data>
+        <Data name="Rg">
+          <value>58.0</value>
+        </Data>
+        <Data name="Palier">
+          <value><![CDATA[P'4]]></value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>7634.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>2726.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>2620.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1981.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1987.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1988.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          3.5164471,48.5159969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paluel</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Paluel<br>Commune Lat: 49.8585982<br>Commune long: 0.6354169<br>Département: Seine-Maritime<br>Rg: 36<br>Palier: P4<br>Puissance thermique (MWt): 7634<br>Puissance brute (MWe): 5528<br>Puissance nette (MWe): 5320<br>Début construction  (premier réacteur): 1977<br>Raccordement au réseau (premier réacteur): 1984<br>Mise en service (premier réacteur): 1985]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Paluel</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>49.8585982</value>
+        </Data>
+        <Data name="Commune long">
+          <value>0.6354169</value>
+        </Data>
+        <Data name="Département">
+          <value>Seine-Maritime</value>
+        </Data>
+        <Data name="Rg">
+          <value>36.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>P4</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>7634.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>5528.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>5320.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1977.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1984.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1985.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.6354169,49.8585982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Penly</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Saint-Martin-en-Campagne et Penly<br>Commune Lat: 49.9805515<br>Commune long: 1.2152422<br>Département: Seine-Maritime<br>Rg: 63<br>Palier: P'4<br>Puissance thermique (MWt): 7634<br>Puissance brute (MWe): 2764<br>Puissance nette (MWe): 2660<br>Début construction  (premier réacteur): 1982<br>Raccordement au réseau (premier réacteur): 1990<br>Mise en service (premier réacteur): 1990]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Saint-Martin-en-Campagne et Penly</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>49.9805515</value>
+        </Data>
+        <Data name="Commune long">
+          <value>1.2152422</value>
+        </Data>
+        <Data name="Département">
+          <value>Seine-Maritime</value>
+        </Data>
+        <Data name="Rg">
+          <value>63.0</value>
+        </Data>
+        <Data name="Palier">
+          <value><![CDATA[P'4]]></value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>7634.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>2764.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>2660.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1982.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1990.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1990.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          1.2152422,49.9805515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Alban</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Saint-Alban<br>Commune Lat: 45.4055435<br>Commune long: 4.755487<br>Département: Isère<br>Rg: 48<br>Palier: P4<br>Puissance thermique (MWt): 7634<br>Puissance brute (MWe): 2762<br>Puissance nette (MWe): 2670<br>Début construction  (premier réacteur): 1979<br>Raccordement au réseau (premier réacteur): 1985<br>Mise en service (premier réacteur): 1986]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Saint-Alban</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>45.4055435</value>
+        </Data>
+        <Data name="Commune long">
+          <value>4.755487</value>
+        </Data>
+        <Data name="Département">
+          <value>Isère</value>
+        </Data>
+        <Data name="Rg">
+          <value>48.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>P4</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>7634.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>2762.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>2670.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1979.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1985.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1986.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.755487,45.4055435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Laurent</name>
+      <description><![CDATA[Nombre de réacteur: 2<br>Commune: Saint-Laurent<br>Commune Lat: 47.7202288<br>Commune long: 1.5800313<br>Département: Loir-et-cher<br>Rg: 17<br>Palier: CP2<br>Puissance thermique (MWt): 5570<br>Puissance brute (MWe): 1912<br>Puissance nette (MWe): 1830<br>Début construction  (premier réacteur): 1976<br>Raccordement au réseau (premier réacteur): 1981<br>Mise en service (premier réacteur): 1983]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>2.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Saint-Laurent</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>47.7202288</value>
+        </Data>
+        <Data name="Commune long">
+          <value>1.5800313</value>
+        </Data>
+        <Data name="Département">
+          <value>Loir-et-cher</value>
+        </Data>
+        <Data name="Rg">
+          <value>17.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP2</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>5570.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>1912.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>1830.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1976.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1981.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1983.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          1.5800313,47.7202288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tricastin</name>
+      <description><![CDATA[Nombre de réacteur: 4<br>Commune: Pierrelatte<br>Commune Lat: 44.3296329<br>Commune long: 4.721184<br>Département: Drôme<br>Rg: 18<br>Palier: CP1<br>Puissance thermique (MWt): 11140<br>Puissance brute (MWe): 3820<br>Puissance nette (MWe): 3660<br>Début construction  (premier réacteur): 1974<br>Raccordement au réseau (premier réacteur): 1980<br>Mise en service (premier réacteur): 1980]]></description>
+      <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="Nombre de réacteur">
+          <value>4.0</value>
+        </Data>
+        <Data name="Commune">
+          <value>Pierrelatte</value>
+        </Data>
+        <Data name="Commune Lat">
+          <value>44.3296329</value>
+        </Data>
+        <Data name="Commune long">
+          <value>4.721184</value>
+        </Data>
+        <Data name="Département">
+          <value>Drôme</value>
+        </Data>
+        <Data name="Rg">
+          <value>18.0</value>
+        </Data>
+        <Data name="Palier">
+          <value>CP1</value>
+        </Data>
+        <Data name="Puissance thermique (MWt)">
+          <value>11140.0</value>
+        </Data>
+        <Data name="Puissance brute (MWe)">
+          <value>3820.0</value>
+        </Data>
+        <Data name="Puissance nette (MWe)">
+          <value>3660.0</value>
+        </Data>
+        <Data name="Début construction  (premier réacteur)">
+          <value>1974.0</value>
+        </Data>
+        <Data name="Raccordement au réseau (premier réacteur)">
+          <value>1980.0</value>
+        </Data>
+        <Data name="Mise en service (premier réacteur)">
+          <value>1980.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          4.721184,44.3296329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
