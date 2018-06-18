@@ -58,6 +58,11 @@ http://www.armorefinery.com/<br>
 Localisation : Ballshi (Ballsh) - Albanie<br>
 <a href="http://www.euro-petrole.com/raffinerie-de-ballshi-l-237" target="blank" class="lien">Plus d'informations</a><br>
 ]]></description>
+<Style id="raffinerie">
+		<Icon>
+			<href>https://cdn3.iconfinder.com/data/icons/buildings-3-4/129/141-512.png</href>
+		</Icon>
+	</Style>
 					<LookAt>
 						<longitude>19.75930515957198</longitude>
 						<latitude>40.60386005855592</latitude>
