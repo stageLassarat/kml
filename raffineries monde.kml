@@ -12,6 +12,21 @@
 			<styleUrl>#sh_wht-blank22400</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="raffinerie">
+		<IconStyle>
+			<color>ff7f5500</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://cdn3.iconfinder.com/data/icons/buildings-3-4/129/141-512.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
 	<Style id="sh_wht-blank75">
 		<IconStyle>
 			<color>ff7f5500</color>
