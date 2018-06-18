@@ -3,16 +3,9 @@
 <Document>
 	<name>Raffineries dans le monde.kmz</name>
 	<Style id="raffinerie">
-		<IconStyle>
-			<ItemIcon>
-				<href>https://cdn3.iconfinder.com/data/icons/buildings-3-4/129/141-512.png</href>
-			</ItemIcon>
-		</IconStyle>
-		<ListStyle>
-			<ItemIcon>
-				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
-			</ItemIcon>
-		</ListStyle>
+		<Icon>
+			<href>https://cdn3.iconfinder.com/data/icons/buildings-3-4/129/141-512.png</href>
+		</Icon>
 	</Style>
 	<Folder>
 		<name>Raffineries dans le monde</name>
