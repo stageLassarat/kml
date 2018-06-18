@@ -6532,7 +6532,7 @@ Localisation : Ballshi (Ballsh) - Albanie<br>
 						<range>948.785828615592</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#msn_wht-blank920</styleUrl>
+					<styleUrl>#raffinerie</styleUrl>
 					<Point>
 						<coordinates>19.75930515957198,40.60386005855592,0</coordinates>
 					</Point>
@@ -6555,7 +6555,7 @@ Localisation : Fieri (Fier) - Albanie<br>
 						<range>1606.779986807362</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#msn_wht-blank920</styleUrl>
+					<styleUrl>#raffinerie</styleUrl>
 					<Point>
 						<coordinates>19.549976,40.703593,0</coordinates>
 					</Point>
