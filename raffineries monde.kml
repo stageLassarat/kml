@@ -4,9 +4,9 @@
 	<name>Raffineries dans le monde.kmz</name>
 	<Style id="raffinerie">
 		<IconStyle>
-			<Icon>
+			<ItemIcon>
 				<href>https://cdn3.iconfinder.com/data/icons/buildings-3-4/129/141-512.png</href>
-			</Icon>
+			</ItemIcon>
 		</IconStyle>
 		<ListStyle>
 			<ItemIcon>
