@@ -2,16 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Raffineries dans le monde.kmz</name>
-	<StyleMap id="msn_wht-blank1170">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-blank2721</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-blank22400</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="raffinerie">
 		<IconStyle>
 			<color>ff7f5500</color>
