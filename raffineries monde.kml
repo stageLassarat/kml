@@ -51,6 +51,11 @@ Europétrole © 2017]]></description>
 				<name>Albanie</name>
 				<Placemark>
 					<name>Raffinerie de Ballshi (Albanie)</name>
+	<Style id="raffinerie">
+		<BalloonStyle>
+			<color>FF0000</color>
+		</BalloonStyle> 
+	</Style>
 					<description><![CDATA[<img src="http://www.euro-petrole.com/images_lieux/Armo.jpg"/<br>
 Raffinerie ARMO de Ballshi en Albanie<br>
 Capacité: 1 Mt/an<br>
