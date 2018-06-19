@@ -61,7 +61,7 @@ http://www.armorefinery.com/<br>
 Localisation : Ballshi (Ballsh) - Albanie<br>
 <a href="http://www.euro-petrole.com/raffinerie-de-ballshi-l-237" target="blank" class="lien">Plus d'informations</a><br>
 ]]></description>
-					<LookAt>
+					<!--<LookAt>
 						<longitude>19.75930515957198</longitude>
 						<latitude>40.60386005855592</latitude>
 						<altitude>0</altitude>
@@ -69,8 +69,15 @@ Localisation : Ballshi (Ballsh) - Albanie<br>
 						<tilt>0</tilt>
 						<range>948.785828615592</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-					</LookAt>
-					<styleUrl>#icon</styleUrl>
+					</LookAt>-->
+					<Style id="icon">
+						<IconStyle>
+							<scale>1.1</scale>
+							<Icon>
+								<href>https://cdn4.iconfinder.com/data/icons/ballicons-2-new-generation-of-flat-icons/100/factory-512.png</href>
+							</Icon>
+						</IconStyle>
+					</Style>
 					<Point>
 						<coordinates>19.75930515957198,40.60386005855592,0</coordinates>
 					</Point>
@@ -93,14 +100,6 @@ Localisation : Fieri (Fier) - Albanie<br>
 						<range>1606.779986807362</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<Style id='icon'>
-						<IconStyle>
-							<scale>1.1</scale>
-							<Icon>
-								<href>https://cdn4.iconfinder.com/data/icons/ballicons-2-new-generation-of-flat-icons/100/factory-512.png</href>
-							</Icon>
-						</IconStyle>
-					</Style>
 					<Point>
 						<coordinates>19.549976,40.703593,0</coordinates>
 					</Point>
