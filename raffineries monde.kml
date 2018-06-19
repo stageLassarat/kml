@@ -10,16 +10,15 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Style id='icon'>
-		<Pair> 
-		  <key>normal</key>
-		  <styleUrl>#icon-image</styleUrl>
-		</Pair> 
-		<Pair> 
-		  <key>highlight</key>
-		  <styleUrl>#icon-image</styleUrl>
-		</Pair> 
-	</Style>
+	<Style id="icon">
+        <LineStyle>
+            <color>ff7f00aa</color>
+        </LineStyle>
+        <PolyStyle>
+            <color>ff7faaff</color>
+            <fill>0</fill>
+        </PolyStyle>
+    </Style>
 	<Folder>
 		<name>Raffineries dans le monde</name>
 		<description><![CDATA[<br>
