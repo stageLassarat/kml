@@ -2,13 +2,23 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Raffineries dans le monde.kmz</name>
-	<Style id='icon'>
+	<Style id='icon-image'>
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
 				<href>https://cdn4.iconfinder.com/data/icons/ballicons-2-new-generation-of-flat-icons/100/factory-512.png</href>
 			</Icon>
 		</IconStyle>
+	</Style>
+	<Style id='icon'>
+		<Pair> 
+		  <key>normal</key>
+		  <styleUrl>#icon-image</styleUrl>
+		</Pair> 
+		<Pair> 
+		  <key>highlight</key>
+		  <styleUrl>#icon-image</styleUrl>
+		</Pair> 
 	</Style>
 	<Folder>
 		<name>Raffineries dans le monde</name>
