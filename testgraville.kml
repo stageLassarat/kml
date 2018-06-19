@@ -12,16 +12,7 @@
     <Placemark>
       <name>Home</name>
       <styleUrl>#icon</styleUrl>
-      <LookAt>
-        <longitude>0.16226779999999508</longitude>
-        <latitude>49.5013123</latitude>
-        <heading>-60</heading>
-        <tilt>70</tilt>
-        <range>6300</range>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-      </LookAt>
       <Point>
-        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
         <coordinates>-122.0922532985281,37.42301710721216,0</coordinates>
       </Point>
     </Placemark>
