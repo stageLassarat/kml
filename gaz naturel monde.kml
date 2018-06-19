@@ -2,10 +2,13 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Stockages gaz naturel dans le monde.kmz</name>
-	<Style id="stockagegaz">
-		<BalloonStyle>
-			<color>000080</color>
-		</BalloonStyle> 
+	<Style id="icon">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://icrsolutions.co.za/wp-content/uploads/Flame-blue.png</href>
+			</Icon>
+		</IconStyle>
 	</Style>
 	<Folder>
 		<name>Stockages gaz naturel dans le monde</name>
@@ -77,7 +80,14 @@ Localisation : Loenhout - Belgique<br>
 						<range>919.3476479349725</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<Style id="icon">
+						<IconStyle>
+							<scale>1.1</scale>
+							<Icon>
+								<href>http://icrsolutions.co.za/wp-content/uploads/Flame-blue.png</href>
+							</Icon>
+						</IconStyle>
+					</Style>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>4.703081,51.387191,0</coordinates>
@@ -102,7 +112,7 @@ Localisation : Port de Zeebrugge - Belgique<br>
 						<range>3759.013521654235</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>3.221562371800846,51.3532044244923,0</coordinates>
 					</Point>
@@ -134,7 +144,7 @@ Localisation : Ile de Krk - Omisalj - Croatie<br>
 						<range>7287.254955901624</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
 						<coordinates>14.54354438536883,45.19652429689295,0</coordinates>
@@ -165,7 +175,7 @@ Pas de date prévisionnelle de mise en service.<br>
 						<range>427.1191778451808</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-15.415752,27.846396,0</coordinates>
@@ -190,7 +200,7 @@ Localisation : Barcelone - Espagne <br>
 						<range>1310.038243763218</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>2.161565,41.341036,0</coordinates>
 					</Point>
@@ -214,7 +224,7 @@ Localisation : Bilbao - Espagne
 						<range>827.4466939442331</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-3.095483,43.360504,0</coordinates>
 					</Point>
@@ -238,7 +248,7 @@ Localisation : Carthagène -  Murcie Espagne <br>
 						<range>1161.374264381151</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-0.956695,37.574002,0</coordinates>
 					</Point>
@@ -269,7 +279,7 @@ Localisation : Mugardos - Espagne <br>
 						<range>1071.141003162354</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-8.239898,43.461075,0</coordinates>
 					</Point>
@@ -294,7 +304,7 @@ Localisation : El Musel Gijón - Espagne <br>
 						<range>2150.426158283902</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-5.692309,43.571622,0</coordinates>
 					</Point>
@@ -320,7 +330,7 @@ Pas de date prévisionnelle de mise en service.<br>
 						<range>1403.29147317947</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-16.498392,28.083823,0</coordinates>
@@ -345,7 +355,7 @@ Localisation : Huelva - Espagne <br>
 						<range>1350.317887773279</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-6.909597000000001,37.173182,0</coordinates>
 					</Point>
@@ -369,7 +379,7 @@ Localisation : Port de Sagunto Sagunto - Espagne <br>
 						<range>573.9392660629923</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-0.216642,39.63247,0</coordinates>
 					</Point>
@@ -400,7 +410,7 @@ Europétrole © 2017]]></description>
 						<range>971.9546584059285</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>27.16043,60.517967,0</coordinates>
@@ -425,7 +435,7 @@ Localisation : Tahkoluoto Pori - Finlande<br>
 						<range>607.83845773699</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>21.39902376048208,61.6381844406181,0</coordinates>
@@ -452,7 +462,7 @@ Localisation : Tornio - Finlande<br>
 						<range>690.9783002668879</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>24.16552930857737,65.75311995359134,0</coordinates>
@@ -481,7 +491,7 @@ Localisation : Les greffets 01440 Viriat - France<br>
 						<range>2241.3547406426</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin0300</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>5.176493,46.25602399999999,0</coordinates>
@@ -506,7 +516,7 @@ Localisation : 64170 Lacq - France <br>
 						<range>2798.728271000126</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-0.641156,43.413248,0</coordinates>
 					</Point>
@@ -530,7 +540,7 @@ Localisation : Montrevel en Bresse 01340 Etrez - France <br>
 						<range>583.5888112817792</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>5.211698,46.341006,0</coordinates>
 					</Point>
@@ -555,7 +565,7 @@ Localisation : 32460 Le Houga - France <br>
 						<range>1122.301492435718</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-0.1104585159901972,43.79119966809481,0</coordinates>
 					</Point>
@@ -579,7 +589,7 @@ Localisation : Route de Fleubert 78650 Beynes - France <br>
 						<range>7655.296818445868</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>1.862593,48.84616,0</coordinates>
 					</Point>
@@ -603,7 +613,7 @@ Localisation : Gerbaults 37460 Céré-la-Ronde - France<br>
 						<range>649.6724983629619</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>1.218448,47.282318,0</coordinates>
 					</Point>
@@ -627,7 +637,7 @@ Localisation : Route de Laneuvelotte 54420 Cerville - France<br><a href="xxxxxx"
 						<range>721.2363920058516</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>6.299020999999999,48.70142100000001,0</coordinates>
 					</Point>
@@ -651,7 +661,7 @@ Localisation : 41700 Chemery - France<br>
 						<range>1611.372744214971</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>1.486195691170831,47.38776291892545,0</coordinates>
 					</Point>
@@ -675,7 +685,7 @@ Localisation : 77840 Germigny-sous-Coulombs - France <br>
 						<range>613.5805989378262</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>3.173102999999999,49.056037,0</coordinates>
 					</Point>
@@ -699,7 +709,7 @@ Localisation : 60190 Gournay-sur-Aronde - France <br>
 						<range>1014.537607934622</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>2.699093,49.526648,0</coordinates>
 					</Point>
@@ -723,7 +733,7 @@ Localisation : 40270 Lussagnet - France<br>
 						<range>1086.322194325167</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-0.221228,43.780792,0</coordinates>
 					</Point>
@@ -748,7 +758,7 @@ Localisation : Gaude 04100 Manosque - France<br>
 						<range>1000.000181763329</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>5.792167878881211,43.85894051687041,0</coordinates>
 					</Point>
@@ -772,7 +782,7 @@ Localisation : 95770 Saint-Clair-sur-Epte - France <br>
 						<range>805.0813679656353</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>1.706121,49.203988,0</coordinates>
 					</Point>
@@ -796,7 +806,7 @@ Localisation : 78980 Saint-Illiers-la-Ville - France<br>
 						<range>1315.266553029288</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>1.551042,48.982938,0</coordinates>
 					</Point>
@@ -820,7 +830,7 @@ Localisation : 41230 Soings en Sologne - France <br>
 						<range>983.9586408358597</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>1.49928361694134,47.42658511562491,0</coordinates>
 					</Point>
@@ -843,7 +853,7 @@ Localisation : 26390 Tersanne - France<br>
 						<range>1142.121329258121</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>4.985744,45.20918,0</coordinates>
 					</Point>
@@ -868,7 +878,7 @@ Localisation : Le Jardinet 51340 Trois-Fontaines l'Abbaye - France]]></descripti
 						<range>2027.422321027033</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>4.973252,48.69959299999999,0</coordinates>
@@ -893,7 +903,7 @@ Localisation : 59279 Loon Plage - France<br>
 						<range>2268.786390073825</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
 						<coordinates>2.195052615262778,51.03289484540818,0</coordinates>
@@ -918,7 +928,7 @@ Localisation : 13270 Fos-sur-Mer - France <br>
 						<range>1938.112628847123</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>4.900659,43.420003,0</coordinates>
 					</Point>
@@ -942,7 +952,7 @@ Localisation : 13270 Fos-sur-Mer - France <br>
 						<range>1034.262134026179</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>4.852847,43.452845,0</coordinates>
 					</Point>
@@ -966,7 +976,7 @@ Localisation : 44550 Montoir-de-Bretagne - France <br>
 						<range>1646.352603979783</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-2.141995,47.30292000000001,0</coordinates>
 					</Point>
@@ -996,7 +1006,7 @@ Localisation : Makri Alexandroupolis - Grèce<br>
 						<range>11923.28727606818</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>25.725999,40.75684,0</coordinates>
@@ -1028,7 +1038,7 @@ Localisation : Ile de Ravithoussa Attica - Grèce <br>
 						<range>1968.374954979086</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>23.40248095875186,37.96076922287083,0</coordinates>
 					</Point>
@@ -1057,7 +1067,7 @@ Localisation : Shannon Estuary Tarbert Ballylongford landbank - Irlande<br>
 						<range>1962.166296350405</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin32</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-9.438143,52.58189099999999,0</coordinates>
@@ -1087,7 +1097,7 @@ Localisation : Porto Levante - Italie<br>
 						<range>28499.9556870587</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>12.822901,45.17208399999999,0</coordinates>
 					</Point>
@@ -1112,7 +1122,7 @@ Localisation : Livourne (Livorno) - Italie <br>
 						<range>58721.92172553481</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
 						<coordinates>10.011952,43.557967,0</coordinates>
@@ -1137,7 +1147,7 @@ Localisation : Fezzano di Portovenere La Spezia - Italie <br>
 						<range>1396.492495974904</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>9.831498532540305,44.0740708172587,0</coordinates>
 					</Point>
@@ -1171,7 +1181,7 @@ Europétrole © 2012]]></description>
 						<range>3836.498131071508</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin0002</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>13.537544,37.285363,0</coordinates>
@@ -1201,7 +1211,7 @@ Localisation : Klaipeda - Lithuanie <br>
 						<range>1396.247564398688</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>21.137443,55.664474,0</coordinates>
@@ -1229,7 +1239,7 @@ Localisation : Delimara - Malte<br>
 						<range>553.569256923896</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>14.554358,35.826646,0</coordinates>
@@ -1257,7 +1267,7 @@ Localisation : Melkøya Island Hammerfest - Norvège<br>
 						<range>2054.147309180451</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>23.594827,70.686031,0</coordinates>
 					</Point>
@@ -1281,7 +1291,7 @@ Localisation : Risavika - Norvège<br>
 						<range>487.2090610668645</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>5.577259,58.922643,0</coordinates>
 					</Point>
@@ -1308,7 +1318,7 @@ Localisation : Rotterdam - Pays-Bas <br>
 						<range>2127.084019146475</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin000200</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>4.05792,51.970881,0</coordinates>
 					</Point>
@@ -1336,7 +1346,7 @@ Localisation : Swinoujscie - Pologne <br>
 						<range>5064.74574463652</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin00020</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>14.295535,53.909658,0</coordinates>
 					</Point>
@@ -1363,7 +1373,7 @@ Localisation : Sines - Portugal<br>
 						<range>986.0705035487243</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin000200</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-8.844915,37.941313,0</coordinates>
 					</Point>
@@ -1390,7 +1400,7 @@ Localisation : Rochester - Royaume-Uni <br>
 						<range>1196.175821261807</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin000200</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>0.680467,51.450756,0</coordinates>
 					</Point>
@@ -1414,7 +1424,7 @@ Localisation : Waterston Milford Haven - Royaume-Uni <br>
 						<range>1716.346772414469</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin000200</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-4.997739,51.704354,0</coordinates>
 					</Point>
@@ -1439,7 +1449,7 @@ Localisation : Milford Haven - Royaume-Uni<br>
 						<range>826.3705513997313</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin000200</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-5.075442,51.714789,0</coordinates>
 					</Point>
@@ -1467,7 +1477,7 @@ Localisation : Baie de Morecombe Barrow in Furness - Royaume-Uni<br>
 						<range>101206.5262039779</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-3.606397,53.764276,0</coordinates>
@@ -1501,7 +1511,7 @@ Localisation : St Fergus Aberdeen - Royaume-Uni<br>
 						<range>1535.371519632647</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-1.835318,57.573582,0</coordinates>
@@ -1528,7 +1538,7 @@ Localisation : Middlesbrough - Royaume-Uni<br>
 						<range>1513.672194550376</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin90</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-1.153347,54.610361,0</coordinates>
@@ -1555,7 +1565,7 @@ Localisation : Seal Sands Teesside - Royaume-Uni<br>
 						<range>947.5822425501314</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-1.200012,54.610293,0</coordinates>
@@ -1584,7 +1594,7 @@ Localisation : Ust-Luga - Russie<br>
 						<range>1576.564177108366</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin2200</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>28.430422,59.72005400000001,0</coordinates>
@@ -1614,7 +1624,7 @@ Localisation : Péninsule de Yama - Sabettal - Russie<br>
 						<range>1997.512022802476</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>72.074392,71.270849,0</coordinates>
@@ -1643,7 +1653,7 @@ Localisation : Brunnsviksholme Nynashamn - Suède<br>
 						<range>542.8358592821242</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin000200</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>17.975708,58.922066,0</coordinates>
 					</Point>
@@ -1669,7 +1679,7 @@ Localisation : Gävle - Suède<br>
 						<range>734.3897889633154</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#msn_ylw-pushpin01</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>17.205776,60.687673,0</coordinates>
@@ -1697,7 +1707,7 @@ Localisation : Göteborg - Suède<br>
 						<range>387.7765773186396</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>11.871525,57.69280999999999,0</coordinates>
@@ -1723,7 +1733,7 @@ Localisation : Lysekil - Suède<br>
 						<range>2146.065941525962</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#msn_ylw-pushpin01</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>11.431233,58.347582,0</coordinates>
@@ -1749,7 +1759,7 @@ Localisation : Marmara Ereglsii - Turquie <a href="http://www.euro-petrole.com">
 						<range>1859.587010182438</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>27.98116032306992,40.99367238636008,0</coordinates>
 					</Point>
@@ -1790,7 +1800,7 @@ Localisation : Hassi R'Mel - Algérie<br>
 						<range>7164.681859754654</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>3.241055439703178,32.94379763681062,0</coordinates>
 					</Point>
@@ -1813,7 +1823,7 @@ Localisation : 31210 Arzew - Algérie <br>
 						<range>1848.470109152438</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>-0.261954,35.813056,0</coordinates>
 					</Point>
@@ -1836,7 +1846,7 @@ Localisation : Skikda - Algérie <br>
 						<range>3347.197147964052</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>6.946641,36.878439,0</coordinates>
 					</Point>
@@ -1862,7 +1872,7 @@ Localisation : Soyo - Angola <br>
 						<range>1494.24019866774</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>12.334997,-6.120655,0</coordinates>
 					</Point>
@@ -1894,7 +1904,7 @@ Europétrole © 2014]]></description>
 						<range>86443.34765419755</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>9.722709,2.964635,0</coordinates>
@@ -1926,7 +1936,7 @@ Localisation : Vridi Abidjan - Côte d\'Ivoire<br>
 						<range>885.4069216365209</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>-4.024132,5.264186,0</coordinates>
@@ -1956,7 +1966,7 @@ http://www.hoeghlng.com/<br>
 						<range>85564.54460253674</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>0.0875048078245122,5.541834873470482,0</coordinates>
@@ -1986,7 +1996,7 @@ Localisation : Ouest de Bioko Island - Guinée Equatoriale<br>
 						<range>551873.2436639386</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>7.612748,3.13855,0</coordinates>
@@ -2010,7 +2020,7 @@ Localisation : Malabo - Bioko Island - Guinée Equatoriale <br>
 						<range>4268.682729335254</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>8.701529000000001,3.777101000000001,0</coordinates>
 					</Point>
@@ -2036,7 +2046,7 @@ Localisation : Marsa El Brega - Libye<br>
 						<range>3947.454045365562</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>19.590366,30.406696,0</coordinates>
 					</Point>
@@ -2065,7 +2075,7 @@ Localisation : Cabo Delgado Afungi - Mozambique<br>
 						<range>14252.14827868335</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin31</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>40.546079,-10.829087,0</coordinates>
@@ -2092,7 +2102,7 @@ Localisation : 80 kilomètres au large des côtes de la baie de Palma Cabo Delga
 						<range>364126.9182049065</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin310</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>41.207545,-10.787788,0</coordinates>
@@ -2123,7 +2133,7 @@ Localisation : Bonny Island - Nigéria <br>
 						<range>7181.188198964609</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>7.149704999999999,4.414862,0</coordinates>
 					</Point>
@@ -2149,7 +2159,7 @@ petrole.com/images/logo-carte.gif"></a>]]></description>
 						<range>24877.11073517562</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>4.498541,6.322126,0</coordinates>
@@ -2205,7 +2215,7 @@ Localisation : Khalifa Bin Salman Port (KBSP) - Bahreïn<br>
 						<range>7732.86780091393</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>50.741257,26.220054,0</coordinates>
@@ -2244,7 +2254,7 @@ Europétrole © 2015]]></description>
 						<range>4039.745906966534</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>32.358047,29.643661,0</coordinates>
@@ -2281,7 +2291,7 @@ Europétrole © 2015]]></description>
 						<roll>1.400450901287688</roll>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</Camera>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>32.358738,29.643428,0</coordinates>
@@ -2306,7 +2316,7 @@ Localisation : Idku - Egypte<br>
 						<range>1714.3493199215</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>30.317044,31.35077,0</coordinates>
 					</Point>
@@ -2332,7 +2342,7 @@ Localisation : Damietta - Egypte <br>
 						<range>1555.49522361436</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>31.748539,31.468428,0</coordinates>
 					</Point>
@@ -2360,7 +2370,7 @@ Localisation : Das Island Abu Dhabi - Emirats Arabes Unis<br>
 						<range>2378.444437740711</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>52.878291,25.156435,0</coordinates>
 					</Point>
@@ -2387,7 +2397,7 @@ Europétrole © 2012]]></description>
 						<range>2621.850957629534</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>56.35748499999999,25.182517,0</coordinates>
@@ -2415,7 +2425,7 @@ Localisation : Dubai Jebel Ali - Emirats Arabes Unis<br>
 						<range>745.5046022996326</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>55.06683200000001,25.030888,0</coordinates>
@@ -2446,7 +2456,7 @@ Europétrole © 2014>]]></description>
 						<range>205.8724525120864</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>52.1423527636506,27.75320991074781,0</coordinates>
@@ -2477,7 +2487,7 @@ Localisation : Hadera - Israël<br>
 						<range>21975.60194758392</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>34.751474,32.424739,0</coordinates>
@@ -2516,7 +2526,7 @@ Europétrole © 2012]]></description>
 						<range>4958.581075403478</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>34.961958,29.375536,0</coordinates>
@@ -2547,7 +2557,7 @@ Localisation : Al-Zour - Koweit<br>
 						<range>10422.03544458159</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>48.39508725753851,28.71721824625112,0</coordinates>
@@ -2574,7 +2584,7 @@ Localisation : Mina Al Ahmadi - Koweit<br>
 						<range>358.4768552202569</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>48.16172999999999,29.069834,0</coordinates>
@@ -2618,7 +2628,7 @@ Localisation : Ras Laffan - Qatar<br>
 						<range>11673.19462329032</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>51.55289700000001,25.909947,0</coordinates>
 					</Point>
@@ -2642,7 +2652,7 @@ Localisation : Ras Laffan - Qatar<br>
 						<range>11674.35507498274</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>51.54282000000001,25.890327,0</coordinates>
 					</Point>
@@ -2669,7 +2679,7 @@ Localisation : Balhaf - Yémen<br>
 						<range>998.1974134780584</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>48.17923766221188,13.9810723713973,0</coordinates>
 					</Point>
@@ -2717,7 +2727,7 @@ Localisation : Nouvelle Ecosse Port Hawkesbury - Canada<br>
 							<range>3213.020956251017</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-61.300623,45.557359,0</coordinates>
@@ -2743,7 +2753,7 @@ Localisation : Bécancour - Québec - Canada<br>
 							<range>1731.763532068631</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-72.380257,46.386729,0</coordinates>
@@ -2769,7 +2779,7 @@ Localisation : Colombie Britannique Kitimat - Canada<br>
 							<range>7832.505467699233</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-128.685639,54.020936,0</coordinates>
@@ -2795,7 +2805,7 @@ Localisation : Colombie Britannique Campbell River - Canada<br>
 							<range>887.9918862988449</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin2011</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-125.285258,50.069261,0</coordinates>
@@ -2821,7 +2831,7 @@ Localisation : Saguenay Québec - Canada<br>
 							<range>1859.823252870695</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin6</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-70.83057100000001,48.400634,0</coordinates>
@@ -2849,7 +2859,7 @@ Localisation : Nouvelle Ecosse Goldboro - Canada<br>
 							<range>5780.190009425696</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin201</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-61.615037,45.173053,0</coordinates>
@@ -2875,7 +2885,7 @@ Localisation : Colombie Britannique Crown Land - Canada<br>
 							<range>8181.478217706947</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-130.414709,54.589364,0</coordinates>
@@ -2901,7 +2911,7 @@ Localisation : Colombie Britannique Kitimat - Canada <br>
 							<range>3016.427355819594</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-128.753407,53.924744,0</coordinates>
 						</Point>
@@ -2926,7 +2936,7 @@ Localisation : Colombie Britannique Kitsault - Canada<br>
 							<range>3939.225980416932</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-129.471924,55.461322,0</coordinates>
@@ -2951,7 +2961,7 @@ Localisation : Port of Saint John Saint John - Canada <br>
 							<range>1796.924128980236</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#msn_ylw-pushpin02</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-65.97921540776117,45.21110384857878,0</coordinates>
 						</Point>
@@ -2976,7 +2986,7 @@ Localisation : Colombie Britannique Alberni Inlet - Vancouver Island - Canada<br
 							<range>1426.047202022844</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin2010</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-125.028292,48.885543,0</coordinates>
@@ -3003,7 +3013,7 @@ http://pacificnorthwestlng.com/<br>
 							<range>1660.591587137395</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-130.295991,54.201559,0</coordinates>
 						</Point>
@@ -3028,7 +3038,7 @@ Localisation : Quebec Lévis - Canada <br>
 							<range>1550.671286560212</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-71.063157,46.81956,0</coordinates>
 						</Point>
@@ -3054,7 +3064,7 @@ Localisation : Colombie Britannique Stewart - Canada<br>
 							<range>4792.204640342925</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin12</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-130.010902,55.90378100000001,0</coordinates>
@@ -3082,7 +3092,7 @@ Localisation : Colombie Britannique Delta - Canada<br>
 							<range>986.8043406024618</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-123.032366,49.14117000000001,0</coordinates>
@@ -3109,7 +3119,7 @@ Localisation : Colombie Britannique Prince Rupert - Canada<br>
 							<range>7793.118913482373</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-130.26213,54.347275,0</coordinates>
@@ -3135,7 +3145,7 @@ Localisation : Colombie Britanique Squamish - Canada<br>
 							<range>105.8761049329412</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-123.2519764798646,49.66617252509212,0</coordinates>
@@ -3169,7 +3179,7 @@ petrole.com/images/logo-carte.gif"></a>]]></description>
 								<range>799.3145978848187</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-151.371532,60.666557,0</coordinates>
@@ -3202,7 +3212,7 @@ Localisation : Nikiski - Etats Unis - Alaska<br>
 								<range>965.4302753446168</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-151.3789623878108,60.6743575272889,0</coordinates>
 							</Point>
@@ -3232,7 +3242,7 @@ Europétrole © 2017]]></description>
 								<range>1014.195948123835</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-81.97546300000001,30.20508600000001,0</coordinates>
@@ -3258,7 +3268,7 @@ Localisation : Jacksonville - Etats Unis - Floride<br>
 								<range>1027.58581166381</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#m_ylw-pushpin0112</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-81.614779,30.411496,0</coordinates>
@@ -3288,7 +3298,7 @@ Localisation : Elba Island Savannah - Etats Unis - Georgie<br>
 								<range>3522.425386372538</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-80.997905,32.0872,0</coordinates>
@@ -3314,7 +3324,7 @@ Localisation : Elba Island Savannah - Etats Unis - Georgie <br>
 								<range>5558.942320105392</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#msn_ylw-pushpin02</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-80.99636700000001,32.085562,0</coordinates>
 							</Point>
@@ -3343,7 +3353,7 @@ Localisation : Calcasieu Ship Channel Cameron Parish - Etats Unis - Louisiane<br
 								<range>3355.546132780665</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.351784,29.817165,0</coordinates>
@@ -3370,7 +3380,7 @@ Localisation : Calcasieu Ship Channel Calcasieu - Etats Unis - Louisiane<br>
 								<range>2033.409271383419</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#m_ylw-pushpin030</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.34048300000002,29.764873,0</coordinates>
@@ -3396,7 +3406,7 @@ Localisation : Hackberry - Etats Unis - Louisiane<br>
 								<range>1390.173539143767</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-93.33646800000001,30.038253,0</coordinates>
 							</Point>
@@ -3421,7 +3431,7 @@ http://www.sempralng.com/<br>
 								<range>1418.38262658921</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.33586354019143,30.04633234779229,0</coordinates>
@@ -3450,7 +3460,7 @@ Europétrole © 2015]]></description>
 								<range>250970.8946912251</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.41943899999998,29.038722,0</coordinates>
@@ -3478,7 +3488,7 @@ Localisation : Calcasieu River Lake Charles - Etats Unis - Louisiane<br>
 								<range>3676.507755336778</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#m_ylw-pushpin012</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.33224,30.088721,0</coordinates>
@@ -3503,7 +3513,7 @@ Localisation : Lake Charles Harbor - Etats Unis - Louisiane <br>
 								<range>771.7872104700288</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#msn_ylw-pushpin02</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-93.287852,30.112506,0</coordinates>
 							</Point>
@@ -3531,7 +3541,7 @@ Localisation : Lake Charles Harbor - Etats Unis - Louisiane<br>
 								<range>1154.575272116731</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.28844700000002,30.112527,0</coordinates>
@@ -3560,7 +3570,7 @@ Localisation : Lake Charles - Etats Unis - Louisiane <br>
 								<range>4134.686328332404</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-93.29912100000001,30.105763,0</coordinates>
 							</Point>
@@ -3586,7 +3596,7 @@ Localisation : Calcasieu Ship Channel Monkey Island - Cameron Parish - Etats Uni
 								<range>3006.347019623955</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.341604,29.792978,0</coordinates>
@@ -3613,7 +3623,7 @@ Localisation : Mississippi River Plaquemines - Etats Unis - Louisiane<br>
 								<range>22882.63574779357</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-89.891971,29.599843,0</coordinates>
@@ -3639,7 +3649,7 @@ Localisation : Cameron Parish - Etats Unis - Louisiane<br>
 								<range>2337.312869599494</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#msn_ylw-pushpin02</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-93.87299,29.751742,0</coordinates>
 							</Point>
@@ -3667,7 +3677,7 @@ Localisation : Cameron Parish - Etats Unis - Louisiane<br>
 								<range>9031.754121530752</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#m_ylw-pushpin002</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.87636165998983,29.75472622309733,0</coordinates>
@@ -3705,7 +3715,7 @@ Localisation : Mill Cove - Passamaquoddy Bay Robbinstone - Etats Unis - Maine<br
 								<range>3941.733980765895</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-67.113893,45.051914,0</coordinates>
@@ -3734,7 +3744,7 @@ Localisation : Everett - Etats Unis - Massachusetts <br>
 								<range>1439.853189806323</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-71.05899700931396,42.39239492533254,0</coordinates>
 							</Point>
@@ -3762,7 +3772,7 @@ Localisation : Lusby - Etats Unis - Maryland <br>
 								<range>1759.173796518734</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#msn_ylw-pushpin02</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-76.409532,38.38893,0</coordinates>
 							</Point>
@@ -3787,7 +3797,7 @@ Localisation : Lusby - Etats Unis - Maryland<br>
 								<range>2336.951849976334</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-76.41262,38.388905,0</coordinates>
@@ -3815,7 +3825,7 @@ Localisation : Bayou Casotte Ship Channel Pascagoula - Etats Unis - Mississippi<
 								<range>1152.247451308389</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#msn_ylw-pushpin02</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-88.50406,30.322154,0</coordinates>
 							</Point>
@@ -3846,7 +3856,7 @@ Localisation : Bayou Casotte Ship Channel Pascagoula - Etats Unis - Mississippi<
 								<range>4961.574488654968</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-88.500294,30.324313,0</coordinates>
@@ -3877,7 +3887,7 @@ Localisation : Port de Coos Bay Coos Bay - Etats Unis - Oregon <br>
 								<range>5312.520907806539</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-124.277604,43.426095,0</coordinates>
@@ -3908,7 +3918,7 @@ Localisation : Brownsville - Etats Unis - Texas<br>
 								<range>8989.800022335401</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-97.263696,26.007766,0</coordinates>
@@ -3936,7 +3946,7 @@ Localisation :  Brownsville - Etats Unis - Texas<br>
 								<range>5306.59003301358</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-97.262585,26.01964,0</coordinates>
@@ -3962,7 +3972,7 @@ Localisation : Brownsville - Etats Unis - Texas<br>
 								<range>11159.57456218895</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-97.23413700000002,26.041856,0</coordinates>
@@ -3989,7 +3999,7 @@ Localisation : Quinta Channel - Corpus Christi San Patricio - Etats Unis - Texas
 								<range>3380.125613041537</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-97.26881899999999,27.887397,0</coordinates>
@@ -4015,7 +4025,7 @@ Localisation : Freeport - Etats Unis - Texas <br>
 								<range>2184.586861674315</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-95.31663389901935,28.93247394431214,0</coordinates>
 							</Point>
@@ -4042,7 +4052,7 @@ Europétrole © 2012]]></description>
 								<range>1325.588032962367</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#m_ylw-pushpin05</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-95.317207,28.932143,0</coordinates>
@@ -4067,7 +4077,7 @@ Localisation : Port Arthur - Etats Unis - Texas <br>
 								<range>1945.163260774879</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<coordinates>-93.91994799999999,29.761253,0</coordinates>
 							</Point>
@@ -4095,7 +4105,7 @@ Localisation : Port Arthur - Etats Unis - Texas<br>
 								<range>2600.357774349393</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.91844,29.759765,0</coordinates>
@@ -4120,7 +4130,7 @@ http://www.sempralng.com/home.html<br>
 								<range>2788.763623764415</range>
 								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 							</LookAt>
-							<styleUrl>#stockagegaz</styleUrl>
+							<styleUrl>#icon</styleUrl>
 							<Point>
 								<gx:drawOrder>1</gx:drawOrder>
 								<coordinates>-93.95576700000001,29.790814,0</coordinates>
@@ -4152,7 +4162,7 @@ Localisation : Altamira - Mexique<br>
 							<range>1691.914115673267</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-97.89429199999999,22.493768,0</coordinates>
 						</Point>
@@ -4176,7 +4186,7 @@ Localisation : Manzanillo - Mexique <br>
 							<range>2387.035877780465</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-104.262737,19.010719,0</coordinates>
 						</Point>
@@ -4207,7 +4217,7 @@ Localisation : Ensenada - Mexique <br>
 							<range>1062.197066079406</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-116.848154505222,31.98857278948503,0</coordinates>
 						</Point>
@@ -4237,7 +4247,7 @@ Localisation : Colon - Panama<br>
 							<range>5679.196760761053</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-79.91518632184418,9.330019549416347,0</coordinates>
@@ -4270,7 +4280,7 @@ Europétrole © 2015]]></description>
 							<range>9661.669772339059</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-66.23346771357009,17.90395396453061,0</coordinates>
@@ -4295,7 +4305,7 @@ Localisation : Penuelas - Porto Rico<br>
 							<range>310.8832112899654</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-66.757659,17.977672,0</coordinates>
 						</Point>
@@ -4322,7 +4332,7 @@ Localisation : Andrés - République Dominicaine <br>
 							<range>1629.98722051126</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-69.631878,18.406817,0</coordinates>
 						</Point>
@@ -4348,7 +4358,7 @@ Localisation : Point Fortin - Trinité-et-Tobago<br>
 							<range>1867.178912619159</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-61.69288673195952,10.1812380091703,0</coordinates>
 						</Point>
@@ -4380,7 +4390,7 @@ Localisation : Escobar - Argentine <br>
 							<range>2287.04029498706</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-58.761709,-34.242396,0</coordinates>
 						</Point>
@@ -4405,7 +4415,7 @@ Localisation : Bahia Blanca - Argentine <br>
 							<range>844.6443498052696</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-62.2896530380007,-38.78771338809117,0</coordinates>
 						</Point>
@@ -4442,7 +4452,7 @@ Localisation : Guanabara Bay Rio de Janeiro - Brésil<br>
 							<range>705.8189146356444</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-43.120351,-22.8023,0</coordinates>
 						</Point>
@@ -4475,7 +4485,7 @@ Localisation : Pecem - Brésil
 							<range>557.5680211847333</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-38.797415,-3.532033,0</coordinates>
 						</Point>
@@ -4501,7 +4511,7 @@ Localisation : Salvador -Baía de Todos-os-Santos  Brésil<br>
 							<range>15771.41179878532</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-38.67857,-12.81547,0</coordinates>
@@ -4529,7 +4539,7 @@ Localisation : Port de Sergipe Aracaju - Brésil<br>
 							<range>4115.925624396218</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin4</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-36.918896,-10.844412,0</coordinates>
@@ -4558,7 +4568,7 @@ http://www.biobiogenera.cl/proyecto_lng.html<br>
 							<range>4011.72823817136</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin26</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-72.979095,-36.707443,0</coordinates>
@@ -4583,7 +4593,7 @@ Localisation : Antofagasta Mejillones - Chili <br>
 							<range>546.9913169611508</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-70.366972,-23.05662,0</coordinates>
 						</Point>
@@ -4614,7 +4624,7 @@ Localisation : Quintero - Chili<br>
 							<range>3341.626571263979</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-71.48753112271855,-32.78055294104524,0</coordinates>
 						</Point>
@@ -4645,7 +4655,7 @@ Localisation : Port El Cayao Carthagène - Colombie<br>
 							<range>1077.021490179777</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin4</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-75.55787100000001,10.281199,0</coordinates>
@@ -4673,7 +4683,7 @@ Localisation : Tolu - Colombie<br>
 							<range>12331.34962279983</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-75.613117,9.528967,0</coordinates>
@@ -4701,7 +4711,7 @@ Localisation : Pampa Melchorita - Pérou <br>
 							<range>3222.855341045318</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#stockagegaz</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<coordinates>-76.297641,-13.246481,0</coordinates>
 						</Point>
@@ -4732,7 +4742,7 @@ http://www.gassayago.com.uy/<br>
 							<range>6651.677994148637</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin202</styleUrl>
+						<styleUrl>#icon</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
 							<coordinates>-56.287103,-34.92112,0</coordinates>
@@ -4777,7 +4787,7 @@ Localisation : Lumut - Brunei<br>
 						<range>2251.503349897848</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>114.464025,4.669936,0</coordinates>
 					</Point>
@@ -4808,7 +4818,7 @@ Europétrole © 2012]]></description>
 						<range>4818.037991086276</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>109.531891,21.448762,0</coordinates>
@@ -4833,7 +4843,7 @@ Localisation : Dalian - Chine <br>
 						<range>521.69346226353</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>121.884333,38.958578,0</coordinates>
 					</Point>
@@ -4858,7 +4868,7 @@ Localisation : Lisha Island Dongguan - Chine<br>
 						<range>1108.886345585381</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin2020</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>113.556513,22.953807,0</coordinates>
@@ -4885,7 +4895,7 @@ Europétrole © 2012]]></description>
 						<range>2023.144234050468</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>114.44397,22.592791,0</coordinates>
@@ -4910,7 +4920,7 @@ Localisation : Fujian Province Xiuyu - Chine<br>
 						<range>2936.831938565263</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>118.998391,25.213447,0</coordinates>
 					</Point>
@@ -4934,7 +4944,7 @@ Localisation : Dapeng Shenzhen - Chine <br>
 						<range>1843.543442008213</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
 						<coordinates>114.436331,22.576739,0</coordinates>
@@ -4961,7 +4971,7 @@ Localisation : Hainan Island - Chine<br>
 						<range>1274.331868785554</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>110.057716,19.977192,0</coordinates>
@@ -4993,7 +5003,7 @@ Localisation : Jiangsu Rudong - Chine <br>
 						<range>4695.128329062661</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>121.4271659002797,32.52780479630818,0</coordinates>
 					</Point>
@@ -5020,7 +5030,7 @@ Europétrole © 2012]]></description>
 						<range>3137.399910994278</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>116.373036,22.932891,0</coordinates>
@@ -5056,7 +5066,7 @@ Localisation : Tianjin - Chine<br>
 						<range>1216.595072202613</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>117.872261,38.928665,0</coordinates>
@@ -5083,7 +5093,7 @@ Europétrole © 2012]]></description>
 						<range>845.9656525464561</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin2021</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>119.759929,35.584052,0</coordinates>
@@ -5108,7 +5118,7 @@ Localisation : Pudong Shanghai - Chine<br>
 						<range>285.231809118838</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>121.706236,31.293159,0</coordinates>
 					</Point>
@@ -5132,7 +5142,7 @@ Localisation : Yangshan - Ximentang Island Shanghai - Chine <br>
 						<range>630.2681996408048</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>122.102694,30.604844,0</coordinates>
 					</Point>
@@ -5163,7 +5173,7 @@ Localisation : Ningbo Zhejiang - Chine
 						<range>1786.570068081421</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>122.0923,29.89483900000001,0</coordinates>
 					</Point>
@@ -5189,7 +5199,7 @@ Localisation : Port de Caofeidian Tangshan - Chine<br>
 						<range>1708.629100950288</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>118.532792,38.933225,0</coordinates>
@@ -5222,7 +5232,7 @@ Localisation : Gaolan Island Zhuhai - Chine<br>
 						<range>1603.433296581691</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>113.219576,21.904354,0</coordinates>
@@ -5249,7 +5259,7 @@ Localisation : Zhejiang province Zhoushan - Chine<br>
 						<range>4786.544554646224</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>122.2824622236528,30.10105003918804,0</coordinates>
@@ -5279,7 +5289,7 @@ Europétrole © 2012]]></description>
 						<range>1323.895877019301</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>126.494174,36.414828,0</coordinates>
@@ -5304,7 +5314,7 @@ Localisation : Incheon - Corée du Sud <br>
 						<range>3387.251059548706</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>126.604054,37.351162,0</coordinates>
 					</Point>
@@ -5335,7 +5345,7 @@ Localisation : Gwangyang - Corée du Sud <br>
 						<range>2433.675059561663</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>127.781334,34.88891,0</coordinates>
 					</Point>
@@ -5359,7 +5369,7 @@ Localisation : Pyeongtaek - Corée du Sud<br>
 						<range>1209.015624563263</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>126.784869,37.004199,0</coordinates>
 					</Point>
@@ -5392,7 +5402,7 @@ Europétrole © 2012]]></description>
 						<range>2521.512657115616</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin20210</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>129.349056,37.168359,0</coordinates>
@@ -5424,7 +5434,7 @@ Localisation : District de Goseong Tongyeong - Corée du Sud<br>
 						<range>4148.556022617195</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>128.4208177016969,34.94769570975271,0</coordinates>
 					</Point>
@@ -5462,7 +5472,7 @@ Europétrole © 2012]]></description>
 						<range>5238.911228635682</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>80.34310600000001,13.29138,0</coordinates>
@@ -5487,7 +5497,7 @@ Localisation : Dabhol Maharashtra - Inde <br>
 						<range>1663.940270324835</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>73.159117,17.539995,0</coordinates>
 					</Point>
@@ -5511,7 +5521,7 @@ Localisation : Gujarat Dahej - Inde<br>
 						<range>2159.933313856534</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>72.53534999999999,21.674946,0</coordinates>
 					</Point>
@@ -5539,7 +5549,7 @@ Europétrole © 2012]]></description>
 						<range>5946.254899354686</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>83.236622,17.634432,0</coordinates>
@@ -5564,7 +5574,7 @@ Localisation : Gujarat Hazira - Inde <br>
 						<range>1518.843842565051</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>72.62368600000001,21.098043,0</coordinates>
 					</Point>
@@ -5591,7 +5601,7 @@ Localisation : Gujarat Jafrabad - Inde<br>
 						<range>4955.2396953325</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>71.38668300000001,20.864374,0</coordinates>
@@ -5616,7 +5626,7 @@ Localisation : Kochi - Inde <br>
 						<range>850.1401014110994</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>76.22589000000001,9.977444,0</coordinates>
 					</Point>
@@ -5643,7 +5653,7 @@ Europétrole © 2012]]></description>
 						<range>18218.53568416727</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>69.60060829350071,22.7505471984626,0</coordinates>
@@ -5674,7 +5684,7 @@ Europétrole © 2012]]></description>
 						<range>804.4279485186464</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>140.620731,36.482149,0</coordinates>
@@ -5699,7 +5709,7 @@ Localisation : Hokkaido  Ishikari - Japon <br>
 						<range>684.0283346769008</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>141.293327,43.210009,0</coordinates>
 					</Point>
@@ -5723,7 +5733,7 @@ Localisation : Chita - Japon <br>
 						<range>990.6784314789315</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>136.823112,34.966454,0</coordinates>
 					</Point>
@@ -5748,7 +5758,7 @@ Localisation : Chita - Japon <br>
 						<range>507.8093584187422</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>136.827789,34.967888,0</coordinates>
 					</Point>
@@ -5772,7 +5782,7 @@ Localisation : Chita - Japon<br>
 						<range>1144.958216398668</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>136.81936,34.962688,0</coordinates>
 					</Point>
@@ -5796,7 +5806,7 @@ Localisation : Fukuoka - Japon <br>
 						<range>286.3411692212367</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>130.406021,33.618044,0</coordinates>
 					</Point>
@@ -5820,7 +5830,7 @@ Localisation : Futtsu - Japon <br>
 						<range>917.8548084515123</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>139.828734,35.346307,0</coordinates>
 					</Point>
@@ -5844,7 +5854,7 @@ Localisation : Aomori prefecture Hachinohe Port - Japon<br>
 						<range>1235.871651332793</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>141.526663,40.544666,0</coordinates>
 					</Point>
@@ -5868,7 +5878,7 @@ Localisation : Hatsukaichi Hiroshima - Japon <br>
 						<range>1835.532849797308</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>132.338584,34.339179,0</coordinates>
 					</Point>
@@ -5892,7 +5902,7 @@ Localisation : Hokaido Hakodate - Japon <br>
 						<range>249.7699634895068</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>140.712955,41.807226,0</coordinates>
 					</Point>
@@ -5916,7 +5926,7 @@ Localisation : Niigata - Japon <br>
 						<range>1772.173696347355</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>139.2444898841169,38.00060145581745,0</coordinates>
 					</Point>
@@ -5947,7 +5957,7 @@ Localisation : Himeji - Japon <br>
 						<range>7524.304332804871</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>134.6930925263466,34.7623250090077,0</coordinates>
 					</Point>
@@ -5970,7 +5980,7 @@ Localisation : Hokkaido - Japon <br>
 						<range>364.6396777605565</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>141.685067,42.656948,0</coordinates>
 					</Point>
@@ -6001,7 +6011,7 @@ Localisation : Niigata Naoetsu - Japon><br>
 						<range>2217.686893941321</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>138.273938,37.203086,0</coordinates>
 					</Point>
@@ -6025,7 +6035,7 @@ Localisation : Joetsu - Japon<br>
 						<range>6142.668745698977</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>138.277052,37.209143,0</coordinates>
 					</Point>
@@ -6049,7 +6059,7 @@ Localisation : Kagoshima - Japon<br>
 						<range>296.7777252484286</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>130.529448,31.485496,0</coordinates>
 					</Point>
@@ -6073,7 +6083,7 @@ Localisation : Kawagoe - Japon <br>
 						<range>2184.636600112766</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin320</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>136.695435,35.009037,0</coordinates>
 					</Point>
@@ -6097,7 +6107,7 @@ Localisation : Kawasaki - Japon <br>
 						<range>3617.302205781775</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>139.7397440023365,35.49329127037053,0</coordinates>
 					</Point>
@@ -6121,7 +6131,7 @@ Localisation : kitakyushu - Japon<br>
 						<range>1724.517814972286</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>130.778562,33.931254,0</coordinates>
 					</Point>
@@ -6145,7 +6155,7 @@ Localisation : Mizushima - Japon<br>
 						<range>3458.722987574727</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>133.732047471945,34.49994552850584,0</coordinates>
 					</Point>
@@ -6169,7 +6179,7 @@ Localisation : Nagasaki - Japon <br>
 						<range>385.3921049905398</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>129.805922,32.758972,0</coordinates>
 					</Point>
@@ -6193,7 +6203,7 @@ Localisation : Nakagusuku - Japon<br>
 						<range>886.5806908452092</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>127.811861,26.275426,0</coordinates>
 					</Point>
@@ -6217,7 +6227,7 @@ Localisation : Ohgishima - Japon <br>
 						<range>648.8648196766497</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>139.707583,35.4784,0</coordinates>
 					</Point>
@@ -6240,7 +6250,7 @@ Localisation : Oita - Japon <br>
 						<range>909.1916676346882</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>131.707112,33.270473,0</coordinates>
 					</Point>
@@ -6264,7 +6274,7 @@ Localisation : Sakai, Osaka - Japon<br>
 						<range>3110.951465167757</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>135.414542,34.571775,0</coordinates>
 					</Point>
@@ -6288,7 +6298,7 @@ Localisation : Sakaide, Kagawa - Japon <br>
 						<range>791.2973644750905</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>133.838885,34.358636,0</coordinates>
 					</Point>
@@ -6313,7 +6323,7 @@ Localisation : Sendai - Japon <br>
 						<range>734.3578606974479</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>141.026042,38.27964,0</coordinates>
 					</Point>
@@ -6337,7 +6347,7 @@ Localisation : Sodegaura - Japon <br>
 						<range>1616.729373879606</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin320</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>139.972517,35.468578,0</coordinates>
 					</Point>
@@ -6363,7 +6373,7 @@ Localisation : Soma Shinchi - Japon<br>
 						<range>2315.111423001958</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>140.949758,37.848617,0</coordinates>
@@ -6388,7 +6398,7 @@ Localisation : Kitakyushu Tobata - Japon <br>
 						<range>525.3593494768404</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>130.866116,33.918611,0</coordinates>
 					</Point>
@@ -6412,7 +6422,7 @@ Localisation : Yanai - Japon <br>
 						<range>1252.921452734973</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>132.125283,33.950884,0</coordinates>
 					</Point>
@@ -6436,7 +6446,7 @@ Localisation : Yokkaichi - Japon <br>
 						<range>3290.516660494614</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>136.6664664736445,34.97711670279432,0</coordinates>
 					</Point>
@@ -6460,7 +6470,7 @@ Localisation : Yokkaichi - Japon <br><br>
 						<range>3290.516660494614</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>136.6648345498883,34.97447963968683,0</coordinates>
 					</Point>
@@ -6484,7 +6494,7 @@ Localisation : Isogo-ku, Yokohama - Japon <br>
 						<range>998.415790689588</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>139.629131,35.404608,0</coordinates>
 					</Point>
@@ -6515,7 +6525,7 @@ Localisation : Osaka - Japon <br>
 						<range>1565.065874259477</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>135.430131046172,34.54693510135168,0</coordinates>
 					</Point>
@@ -6546,7 +6556,7 @@ Localisation : Osaka - Japon <br>
 						<range>3714.013229167712</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>135.405538,34.544341,0</coordinates>
 					</Point>
@@ -6569,7 +6579,7 @@ Localisation : Shimizu - Japon <br>
 						<range>1055.692825115325</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>138.49691,35.028038,0</coordinates>
 					</Point>
@@ -6596,7 +6606,7 @@ Localisation : Tanjung Kidurong Bintulu - Malaisie<br>
 						<range>1912.229944382197</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>113.065972,3.275634000000001,0</coordinates>
 					</Point>
@@ -6623,7 +6633,7 @@ Localisation : Champ de Kanowit - Malaisie<br>
 						<range>1478073.543797536</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>111.696814,4.193253,0</coordinates>
@@ -6650,7 +6660,7 @@ Localisation : Melaka Sungai Udang - Malaisie<br>
 						<range>1865.410572288866</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>102.123352,2.243637,0</coordinates>
@@ -6678,7 +6688,7 @@ Localisation : Johor Pengerang - Malaisie<br>
 						<range>2040.628958314106</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>104.182234,1.341183,0</coordinates>
@@ -6705,7 +6715,7 @@ Localisation : Sabah - Malaisie<br>
 						<roll>-0.8003882772516147</roll>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</Camera>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>115.591201,6.641197999999999,0</coordinates>
@@ -6734,7 +6744,7 @@ http://www.bwgroup.net/<br>
 						<range>793.2560775353351</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin8</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>67.311785,24.772833,0</coordinates>
@@ -6762,7 +6772,7 @@ Localisation : Karachi Port Qasim - Pakistan<br>
 						<range>1696.440765733445</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#m_ylw-pushpin80</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>67.31203502220511,24.77168549320998,0</coordinates>
@@ -6793,7 +6803,7 @@ Localisation : Pagbilao - Philippines <br>
 						<range>1859.831130198112</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>121.7558226173122,13.89319996982781,0</coordinates>
@@ -6821,7 +6831,7 @@ Localisation : Sakhalin Prigorodnoye - Russie <br>
 						<range>1979.630023284595</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>142.9121182938817,46.62858293831101,0</coordinates>
 					</Point>
@@ -6847,7 +6857,7 @@ Localisation : Lomonosov Peninsula - Amur Bay Vladivostok - Russie
 						<range>5444.979646891163</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>131.555174,43.004958,0</coordinates>
@@ -6875,7 +6885,7 @@ Localisation : Jurong Island - Singapour<br>
 						<range>3795.396155832861</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>103.670917,1.236676,0</coordinates>
 					</Point>
@@ -6902,7 +6912,7 @@ Localisation : Taichung - Taiwan <br>
 						<range>810.905849047869</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>120.496284,24.252141,0</coordinates>
 					</Point>
@@ -6926,7 +6936,7 @@ Localisation : Yongan - Taiwan <br>
 						<range>5429.744123343668</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>120.205331,22.809401,0</coordinates>
 					</Point>
@@ -6953,7 +6963,7 @@ Localisation : Rayong Map Ta Phut - Thaïlande<br>
 						<range>791.8473610447032</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>101.158732,12.653172,0</coordinates>
 					</Point>
@@ -6983,7 +6993,7 @@ http://www.euro-petrole.com/engie-er-3686-sc-37<br>
 						<range>412.8816055578971</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>26.896971,38.744779,0</coordinates>
@@ -7008,7 +7018,7 @@ Localisation : Aliaga - Turquie<br>
 						<range>1436.424481911162</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#msn_ylw-pushpin02</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>26.91938809997215,38.82099669207008,0</coordinates>
 					</Point>
@@ -7057,7 +7067,7 @@ petrole.com/images/logo-carte.gif"></a>]]></description>
 						<range>1451888.939652721</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>121.88883,-14.403463,0</coordinates>
@@ -7082,7 +7092,7 @@ Localisation : Wickham Point Darwin - Australie <br>
 						<range>2310.173061028831</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>130.865413,-12.522126,0</coordinates>
 					</Point>
@@ -7107,7 +7117,7 @@ Localisation : Karratha - Australie <br>
 						<range>3115.572657313605</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>116.7759602017272,-20.59426719642365,0</coordinates>
 					</Point>
@@ -7132,7 +7142,7 @@ Localisation : Queensland - Gladstone Curtis Island - Australie<br>
 						<range>2568.388708474577</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>151.211655,-23.777307,0</coordinates>
 					</Point>
@@ -7156,7 +7166,7 @@ Localisation : Barrow Island - Australie <br>
 						<range>4110.938955041441</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>115.452022,-20.790286,0</coordinates>
 					</Point>
@@ -7181,7 +7191,7 @@ Localisation : Blaydin Point Darwin - Australie<br>
 						<range>8490.420408322674</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>130.919694,-12.518388,0</coordinates>
 					</Point>
@@ -7205,7 +7215,7 @@ Localisation : Queensland - Gladstone Curtis Island - Australie<br>
 						<range>791.4382221328964</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
 						<coordinates>151.184393329304,-23.75422254436926,0</coordinates>
@@ -7237,7 +7247,7 @@ Localisation : Burrup Peninsula Karratha - Australie<br>
 						<range>1946.900978513235</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>116.7619530694744,-20.60903439954335,0</coordinates>
 					</Point>
@@ -7263,7 +7273,7 @@ Localisation : Browse Basin 475 km au nord-est de la ville de Broome - Australie
 						<roll>1.478501443774387</roll>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</Camera>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>123.263007,-14.075081,0</coordinates>
@@ -7288,7 +7298,7 @@ ocalisation : Queensland - Gladstone Curtis Island - Australie]]></description>
 						<range>1944.577152744504</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>151.197429,-23.767888,0</coordinates>
 					</Point>
@@ -7315,7 +7325,7 @@ petrole.com/images/logo-carte.gif"></a>]]></description>
 						<range>578031.1913927818</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>113.080586,-20.20978,0</coordinates>
@@ -7345,7 +7355,7 @@ Localisation : Champs Sunrise et Troubadour Timor Gap - Australie<br>
 						<range>1123879.612806092</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>128.35633,-9.238357000000001,0</coordinates>
@@ -7371,7 +7381,7 @@ Localisation : Onslow - Australie<br>
 						<range>2920.937374230915</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>115.003719,-21.692297,0</coordinates>
 					</Point>
@@ -7401,7 +7411,7 @@ Localisation : Masela Block, Champ d'Abadi - Indonésie
 						<range>1154257.069593948</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>130.528715,-9.459409000000001,0</coordinates>
@@ -7432,7 +7442,7 @@ Localisation : Blang Lancang - Aceh - Sumatra Arun - Indonésie <br>
 						<range>3618.464792437331</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>97.08565954101793,5.222563481086387,0</coordinates>
 					</Point>
@@ -7471,7 +7481,7 @@ Europétrole © 2012]]></description>
 						<range>3611.915045778496</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>97.08516400000001,5.222856,0</coordinates>
@@ -7497,7 +7507,7 @@ Localisation : Bontang - Indonésie<br>
 						<range>3204.916730846297</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>117.474279,0.098721,0</coordinates>
 					</Point>
@@ -7524,7 +7534,7 @@ Europétrole © 2012]]></description>
 						<range>2621.286039440582</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>109.006267,-7.747989,0</coordinates>
@@ -7549,7 +7559,7 @@ Localisation : Central Sulawesi Banggai Regency - Indonésie <br>
 						<range>9175.62816192511</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>122.664305,-1.145959,0</coordinates>
@@ -7577,7 +7587,7 @@ Localisation : Jakarta - Indonésie<br>
 						<range>23905.77333253982</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>106.824,-6.03187,0</coordinates>
@@ -7604,7 +7614,7 @@ Localisation : Sumatra Labuan Maringgai - Indonésie<br>
 						<range>133027.2459906382</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>106.001,-5.42574,0</coordinates>
@@ -7630,7 +7640,7 @@ Localisation : South sulawesi Keera - Indonésie<br>
 						<range>830.0122104771391</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>120.342029,-3.90806,0</coordinates>
@@ -7656,7 +7666,7 @@ Localisation : Tangguh - Indonésie<br>
 						<range>2042.080138997902</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>133.138488,-2.444057,0</coordinates>
 					</Point>
@@ -7683,7 +7693,7 @@ Localisation : Port Moresby - Papouasie-Nouvelle-Guinée <br>
 						<range>14679.39122910352</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#stockagegaz</styleUrl>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<coordinates>147.012592,-9.339399,0</coordinates>
 					</Point>

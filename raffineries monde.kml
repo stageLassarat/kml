@@ -6,7 +6,7 @@
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
-				<href>http://www.bonefiregear.com/bfglogo.png</href>
+				<href>https://cdn4.iconfinder.com/data/icons/ballicons-2-new-generation-of-flat-icons/100/factory-512.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
@@ -93,7 +93,14 @@ Localisation : Fieri (Fier) - Albanie<br>
 						<range>1606.779986807362</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<styleUrl>#icon</styleUrl>
+					<Style id='icon'>
+						<IconStyle>
+							<scale>1.1</scale>
+							<Icon>
+								<href>https://cdn4.iconfinder.com/data/icons/ballicons-2-new-generation-of-flat-icons/100/factory-512.png</href>
+							</Icon>
+						</IconStyle>
+					</Style>
 					<Point>
 						<coordinates>19.549976,40.703593,0</coordinates>
 					</Point>
