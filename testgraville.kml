@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Graville</name>
+    <Style id="icon">
+      <IconStyle>
+        <Icon>
+          <href>bonefire.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Home</name>
+      <styleUrl>#icon</styleUrl>
+      <Point>
+        <coordinates>49.501312,0.162268,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
