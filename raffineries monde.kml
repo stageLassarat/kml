@@ -3,9 +3,11 @@
 <Document>
 	<name>Raffineries dans le monde.kmz</name>
 	<Style id="raffinerie">
-		<BalloonStyle>
-			<color>FF0000</color>
-		</BalloonStyle> 
+		<IconStyle>
+            <Icon>
+                <href>https://cdn3.iconfinder.com/data/icons/buildings-3-4/129/141-512.png</href>
+            </Icon>
+        </IconStyle>
 	</Style>
 	<Folder>
 		<name>Raffineries dans le monde</name>
