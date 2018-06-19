@@ -2,14 +2,14 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Stockages gaz naturel dans le monde.kmz</name>
-	<Style id="icon">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://icrsolutions.co.za/wp-content/uploads/Flame-blue.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
+    <Style id="west_campus_style">
+      <IconStyle>
+        <Icon>
+          <href>https://cdn4.iconfinder.com/data/icons/ballicons-2-new-generation-of-flat-icons/100/factory-512.png
+          </href>
+        </Icon>
+      </IconStyle>
+    </Style>
 	<Folder>
 		<name>Stockages gaz naturel dans le monde</name>
 		<description><![CDATA[<a href="http://www.euro-petrole.com"><img src="http://www.euro-petrole.com/images/logo-carte.gif"></a><br>
@@ -80,14 +80,7 @@ Localisation : Loenhout - Belgique<br>
 						<range>919.3476479349725</range>
 						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 					</LookAt>
-					<Style id="icon">
-						<IconStyle>
-							<scale>1.1</scale>
-							<Icon>
-								<href>http://icrsolutions.co.za/wp-content/uploads/Flame-blue.png</href>
-							</Icon>
-						</IconStyle>
-					</Style>
+					<styleUrl>#icon</styleUrl>
 					<Point>
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>4.703081,51.387191,0</coordinates>
