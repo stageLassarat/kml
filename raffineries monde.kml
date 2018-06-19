@@ -826,7 +826,6 @@ Localisation : 2025 Route de l'Ouvrage Ouest Dunkerque - France
       </ExtendedData>
 										
 					<Point>
-						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
 						<coordinates>2.333918,51.04446,0</coordinates>
 					</Point>
 				</Placemark>
