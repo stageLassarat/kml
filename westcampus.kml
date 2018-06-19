@@ -60,13 +60,7 @@
       <styleUrl>#west_campus_style</styleUrl>
       <ExtendedData>
         <Data name="video">
-          <value><![CDATA[<img src="http://www.euro-petrole.com/images_lieux/Armo.jpg"/<br>
-Raffinerie ARMO de Ballshi en Albanie<br>
-Capacité: 1 Mt/an<br>
-http://www.armorefinery.com/<br>
-Localisation : Ballshi (Ballsh) - Albanie<br>
-<a href="http://www.euro-petrole.com/raffinerie-de-ballshi-l-237" target="blank" class="lien">Plus d'informations</a><br>
-]]></value>
+          <value></value>
         </Data>
       </ExtendedData>           
       <Point>
