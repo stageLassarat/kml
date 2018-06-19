@@ -9,18 +9,10 @@
           </href>
         </Icon>
       </IconStyle>
-      <BalloonStyle>
-        <text>$[video]</text>
-      </BalloonStyle>
     </Style>
     <Placemark>
       <name>Google West Campus 1</name>
       <styleUrl>#west_campus_style</styleUrl>
-      <ExtendedData>
-        <Data name="video">
-          <value></value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>42,7,0</coordinates>
       </Point>
