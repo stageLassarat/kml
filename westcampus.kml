@@ -56,10 +56,17 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Raffinerie de Ballshi</name>
-      <styleUrl>#west_campus_style</styleUrl>         
+      <name>Google West Campus 4</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
       <Point>
-        <coordinates>19.75930515957198,40.60386005855592,0</coordinates>
+        <coordinates>-122.0922532985281,37.42301710984168,0</coordinates>
       </Point>
     </Placemark>
   </Document>
