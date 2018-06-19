@@ -66,7 +66,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>-122.0922532985281,37.42301710984168,0</coordinates>
+        <coordinates>-122,37,0</coordinates>
       </Point>
     </Placemark>
   </Document>
