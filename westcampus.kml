@@ -30,13 +30,13 @@
     <Placemark>
       <name>Google West Campus 2</name>
       <styleUrl>#west_campus_style</styleUrl>
-      <ExtendedData>
-        <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
-        </Data>
-      </ExtendedData>
+        <description><![CDATA[<img src="http://www.euro-petrole.com/images_lieux/Armo.jpg"/<br>
+Raffinerie ARMO de Ballshi en Albanie<br>
+Capacité: 1 Mt/an<br>
+http://www.armorefinery.com/<br>
+Localisation : Ballshi (Ballsh) - Albanie<br>
+<a href="http://www.euro-petrole.com/raffinerie-de-ballshi-l-237" target="blank" class="lien">Plus d'informations</a><br>
+]]></description>
       <Point>
         <coordinates>-122.0926995893311,37.42419403634421,0</coordinates>
       </Point>
@@ -53,20 +53,6 @@
       </ExtendedData>
       <Point>
         <coordinates>-122.0922532985281,37.42301710721216,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Google West Campus 3</name>
-      <styleUrl>#west_campus_style</styleUrl>
-      <ExtendedData>
-        <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>47,2,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
