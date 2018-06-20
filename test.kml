@@ -1,20 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Kml raffinerie test</name>
-    <Style id="west_campus_style">
+    <name>Calque sans titre</name>
+    <Style id="icon-1899-DB4436-normal">
       <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
         <Icon>
-          <href>https://www.resetera.com/data/avatars/l/7/7373.jpg
-          </href>
+          <href>https://www.resetera.com/data/avatars/l/7/7373.jpg</href>
         </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
     </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Placemark>
-      <name>Google West Campus 1</name>
-      <styleUrl>#west_campus_style</styleUrl>
+      <name>Home</name>
+      <description>loul</description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
       <Point>
-        <coordinates>19.75930515957198,40.60386005855592,0</coordinates>
+        <coordinates>
+          0.1623031,49.501344,0
+        </coordinates>
       </Point>
     </Placemark>
   </Document>
